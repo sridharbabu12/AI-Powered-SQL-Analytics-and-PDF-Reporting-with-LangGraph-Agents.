@@ -1,6 +1,0 @@
-supabase
-python-dotenv
-pymupdf
-pdf2image
-
-
