@@ -1,3 +1,0 @@
-openai
-python_dotenv
-pillow
